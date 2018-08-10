@@ -1,0 +1,4 @@
+cmake-build-debug
+*/CMakeFiles
+.idea
+*/node_modules
